@@ -10,7 +10,7 @@
     "ai",
     "video-processing"
   ],
-  "author": "Your Name",
+  "author": "ayush dangwal",
   "license": "MIT",
   "api": {
     "provider": "Google Gemini",
